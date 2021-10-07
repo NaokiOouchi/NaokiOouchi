@@ -1,5 +1,5 @@
-[![](https://raw.githubusercontent.com/NaokiOouchi/NaokiOouchi/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NaokiOouchi/NaokiOouchi/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NaokiOouchi/NaokiOouchi/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](https://komarev.com/ghpvc/?username=NaokiOouchi&color=green)
+# Naoki Oouchi
+- 🐦 Twitter [@NaoNoaNaoNoaN](https://twitter.com/NaoNoaNaoNoaN)
+- 🗃 Github [@NaokiOouchi](https://github.com/NaokiOouchi)
+- 📝 Profile - [link](https://naokioouchi.github.io/ooooouchi/)
+- 📖 Blog - [link](https://www.ooooouchi.info/)
