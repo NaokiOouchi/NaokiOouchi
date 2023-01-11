@@ -6,6 +6,7 @@
 
 [![NaokiOouchi's github stats](https://github-readme-stats.vercel.app/api?username=NaokiOouchi&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NaokiOouchi/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiOouchi&layout=compact&theme=tokyonight)](https://github.com/NaokiOouchi/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NaokiOouchi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![](https://raw.githubusercontent.com/NaokiOouchi/NaokiOouchi/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
