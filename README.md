@@ -4,5 +4,9 @@
 - 📝 Profile - [link](https://naokioouchi.github.io/ooooouchi/)
 - 📖 Blog - [link](https://www.ooooouchi.info/)
 
-[![NaokiOouchi's github stats](https://github-readme-stats.vercel.app/api?username=NaokiOouchi&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NaokiOouchi/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiOouchi&layout=compact&theme=tokyonight)](https://github.com/NaokiOouchi/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-git-main-naokioouchi.vercel.app/api?username=NaokiOouchi&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-git-main-naokioouchi.vercel.app/api/top-langs/?username=NaokiOouchi&layout=compact&theme=tokyonight" />
+</a>
